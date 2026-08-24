@@ -9,15 +9,21 @@ I built this interactive, voice-driven 3D AI assistant to represent my niche thr
 >What it does?:
 
 ~Ask questions by typing or speaking- **Ada** give answers loud and on-screen.
+
 ~An interactive rigged 3D avatar reacts differently depending on whether she is idle, listening or speaking.
+
 ~This portfolio also have Home/ About/ Projects/ Contact sections
 
 >Architecture:
 
 ~**Frontend** : React + Vite
+
 ~**3D Avatar**: Maximo avatar with Three.js via react Three Fiber
+
 ~**Voice**: Web speech API
+
 ~**AI backend**: Groq API
+
 ~**Hosting** Vercel
 
 >My motivation behind building this:
